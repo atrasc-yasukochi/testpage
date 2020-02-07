@@ -1,0 +1,104 @@
+body {
+    background-color:ghostwhite;
+    /* font-size: 1.2em;
+    color: blue; */
+
+}
+a:link, a:visited, a:active {
+    color: black;
+    text-decoration: none;
+}
+button:hover{
+    background-color: dodgerblue;
+}
+#atrasc{
+    background-color: white;
+    display: flex;
+}
+#atrasclogobutton{
+    margin-left: 100px;
+    background-color: white;
+    border-style: none;
+    cursor: pointer;
+}
+#atrasclogo{
+    max-width: 300px;
+}
+#jrmark{
+    padding-left: 45%;
+    max-width: 80px;
+    max-height: 60px;
+}
+
+#services{
+    padding-left: 100px;
+    font-size: 1.4em;
+}
+#move1{
+    background-color: #222222;
+    padding-left: 100px;
+}
+#move2{
+    font-size: 0.9em;
+    margin-left: 50%;
+    margin-top: 6px;
+}
+#firstpic{
+    max-width: 325px;
+}
+#dontstop{
+    font-size: 1.4em;
+    margin-left: 25px;
+}
+.movebuttonarea{
+    display: flex;
+}
+.movebutton{
+    color:white;
+    background-color: #222222;
+    border-style: ridge;
+    border-color: #444444;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: -1px;
+    cursor: pointer;
+}
+.header{
+    background-color: white;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main{
+    background-color: white;
+    font-size: 0.85em;
+    max-width: 820px;
+    margin: auto;
+    padding-left: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.nowactive{
+    color: dodgerblue;
+}
+.thumbnailstile{
+    display: flex;
+}
+.thumbnailpic{
+    max-width: 160px;
+}
+.thumbnailexplain{
+    margin-left: 25px;
+}
+.systemsintroduction{
+    margin-left: 230px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: whitesmoke;
+}
+
